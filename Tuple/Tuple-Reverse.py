@@ -1,0 +1,5 @@
+t1=(11,22,55,44,55,10,9)
+l1=list(t1)
+l1.reverse()
+t1=tuple(l1)
+print(t1)
