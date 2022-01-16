@@ -1,0 +1,6 @@
+a=int(input("Enter Temperature of Day 1=>"))
+b=int(input("Enter Temperature of Day 2=>"))
+c=int(input("Enter Temperature of Day 3=>"))
+d=int(input("Enter Temperature of Day 4=>"))
+e=int(input("Enter Temperature of Day 5=>"))
+print("Average Temperature=>",(a+b+c+d+e)/5)
