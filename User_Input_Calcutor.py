@@ -1,0 +1,6 @@
+a=int(input("Enter Value for A=>"))
+b=int(input("Enter Value for B=>"))
+print("Addition",a+b)
+print("Subtraction",a-b)
+print("Division",a/b)
+print("Multiplication",a*b)
